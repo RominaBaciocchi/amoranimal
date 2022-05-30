@@ -1,0 +1,249 @@
+*{
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.navbar {
+    background-color: orange;
+    
+
+}
+
+
+
+.main img {
+    border-radius: 90%;
+    width: 70%;
+    margin-bottom: 20px;
+}
+
+.ayudando {
+    text-align: center;
+}
+.adopta {
+    text-align: center;
+}
+.encontradas {
+    text-align: center;
+}
+
+.boton{
+    border:black solid;
+    font-size: 17px;
+    background-color: orange;
+    margin-bottom: 20px;
+    transition: 0.5s;
+    border-radius: 7px;
+    padding: 10px;
+
+}  
+
+.boton:hover{
+    background-color: black;
+    color: white;
+}
+
+.navbar li{
+    margin: 15px;
+    padding: 15px;
+    font: bold 15px verdana;
+    color: black;
+    transition: 0.5s;
+    border-radius: 10px;
+    cursor: pointer;
+            
+}
+
+.navbar li:hover{
+    background-color: black;
+    color: white;
+    
+    }
+
+.navbar a{
+    margin: 15px;
+    padding: 10px;
+    margin-top: 0;
+    font: bold 15px verdana;
+    color: black;
+    transition: 0.5s;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: rgb(233, 232, 232);
+    text-align: center;
+}
+
+
+
+.navbar a:hover{
+background-color: black;
+color: white;
+}
+
+.navbar li a{
+    background-color: orange;
+    text-decoration: none;
+
+}
+
+
+.navbar li a:hover{
+background-color: black;
+color: white;
+}
+
+.collapse{
+    margin-right: 60px;
+}
+
+
+.bg-image{
+    background-image: url('../imagenes/animales2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    
+}
+
+
+.columnai{
+    background-color: rgb(219, 216, 216);
+    border: solid black;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.volver{
+   
+    text-align: center;
+    margin-top: auto;
+    border:black solid;
+    font-size: 17px;
+    background-color: orange;
+    transition: 0.5s;
+    border-radius: 7px;
+    padding: 10px;
+    width: 15%;
+    
+    
+    
+}
+
+.volver:hover{
+    background-color: black;
+    color: white;
+}
+
+.footer{
+    padding: 8px;
+    margin-top: 5px;
+    background: orange;
+    color: black;
+    
+}
+
+
+
+.btn{
+    border:black solid;
+    font-size: 17px;
+    background-color: orange;
+    margin-bottom: 20px;
+    margin-top: 80px;
+    transition: 0.5s;
+    border-radius: 7px;
+    padding: 10px;
+
+}  
+
+.btn:hover{
+    background-color: black;
+    color: white;
+}
+
+.formulario-registro{
+    text-align: center;
+    
+}
+
+.form-group{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.form-group input {
+    width: 20%;
+    margin-top: 10px;
+}
+
+.col{
+    
+    align-items: center;
+}
+
+.logo{
+    text-align: center;
+    background-color: orange;
+    margin-top: 0;
+    height: 180px; 
+}
+
+.card{
+    background-color: rgb(232, 228, 228);
+    margin-bottom: 15px;
+   
+}
+
+label{
+    margin-top: 15px;
+    margin-bottom: 5px;
+    
+}
+
+.boton{
+    margin-top: 25px;
+}
+
+input {
+    width: 20%;
+}
+
+.mensaje{
+    width: 20%;
+    height: 200px;
+}
+
+table, th, tr, td{
+    border: solid 2px black;
+    text-align: center;
+    
+}
+tr{
+    margin-top: 15px;
+    padding: 15px;
+    
+}
+
+table{
+    margin-left: 35px;
+    margin-right: 35px;
+    
+}
+
+td img{
+    width: 80px;
+    
+}
+
+
+h1{
+    margin-top: 40px;
+    margin-bottom: 30px;
+    font-size: 25px;
+    text-align: center;
+    
+}
+
+
